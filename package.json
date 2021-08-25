@@ -1,8 +1,8 @@
 {
-  "name": "22",
+  "name": "dummy_ropm_test",
   "version": "0.0.1",
   "ropm": {
-    "rootDir": "src"
+    "packageRootDir": "src"
   },
   "keywords": ["ropm"]
 }
